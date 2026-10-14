@@ -2,12 +2,12 @@
 # BAN 7010 - Team Project (Team Gyoza)
 # Company: KIA  |  US used-car market analysis (auction data Dec-2014 to Jul-2015)
 # =====================================================================
-# Inputs (put in the working directory):
-#   car_prices.csv                 - course dataset
-#   bea_sa51.csv                   - BEA SA51: per-capita disposable personal income by state, 1948-2015
-#   state_year.rda                 - BLS LAUS annual state unemployment (jjchern/laus on GitHub)
-#   2014_usa_states.csv            - Census 2014 state population (plotly/datasets on GitHub)
-#   elec.csv                       - county presidential results 2008-16 (tonmcg on GitHub)
+# Inputs:
+#   car_prices.csv                
+#   bea_sa51.csv                   
+#   state_year.rda                 
+#   2014_usa_states.csv            
+#   elec.csv                       
 # Outputs: figures in ./fig, tables in ./out
 # =====================================================================
 
