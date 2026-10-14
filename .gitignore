@@ -1,0 +1,9 @@
+# Course dataset is 88 MB - too big for GitHub's web upload. Everyone keeps their own copy locally.
+car_prices.csv
+
+# RStudio / R clutter
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
